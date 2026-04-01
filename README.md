@@ -1,4 +1,4 @@
-## Hi mir murii 
+## Hi murii 
 my name is murtaza and this is my persional file Hi there! I'm a beginner in Git and version control, currently learning how to manage code efficiently and collaborate on projects.
 
 💡 
